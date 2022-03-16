@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Elian Gonzalez</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=29&duration=8000&multiline=true&width=385&height=40&lines=%F0%9F%91%8Bwelcome+to+my+github"></img>
+</p>
+<hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=8000&color=3FA4FF&background=00000006&multiline=true&width=800&height=85&lines=A+passionate+full-stack+developer+from+Argentina)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Elian Gonzalez</h1>
 
 - 🌱 I’m currently learning **senior technician in software development**
 
