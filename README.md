@@ -5,10 +5,14 @@
 
 <h1 align="center">Hi, I'm Elian Gonzalez</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
-
-- 🌱 I’m currently studying the career of higher technician in software development. 
-
-- 📫 How to reach me **elianngonzalez7@gmail.com**
+<br>
+<p align="center">
+    - 🌱 I’m currently studying the career of higher technician in software development.
+ </p>
+<p align="center">
+- 📫 How to reach me elianngonzalez7@gmail.com
+</p>
+<br>
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianngonzalez&layout=compact&langs_count=10&theme=aura_dark"></img>
 </h3>
