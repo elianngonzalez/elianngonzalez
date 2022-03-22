@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Elian Gonzalez</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **senior technician in software development**
+- 🌱 I’m currently studying the career of higher technician in software development. 
 
 - 📫 How to reach me **elianngonzalez7@gmail.com**
 <h3 align="center">
