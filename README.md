@@ -5,7 +5,7 @@
         <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611e9374eec47294cd35dcfc68f07cc7367f09159be&rid=giphy.gif&ct=g" width="50" height="50"></img>
     </kbd>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?size=29&duration=6000&multiline=true&width=400&height=40&lines=%F0%9F%91%8Bwelcome+to+my+github"></img>
+<img src="https://readme-typing-svg.herokuapp.com?size=29&duration=5000&multiline=true&width=400&height=40&lines=%F0%9F%91%8Bwelcome+to+my+github"></img>
 </p>
 <hr>
 
